@@ -1,3 +1,5 @@
+# -*- coding: utf-8-*-
+
 from google.cloud import language
 
 def text_analysis(text):
